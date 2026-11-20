@@ -5,6 +5,8 @@
 ![openpyxl](https://img.shields.io/badge/openpyxl-charts_%26_formatting-1F6FEB)
 ![CI](https://github.com/asad110abbas/excel-report-automation/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 Replaces a manual, hours-long monthly Excel routine with **one command**. It reads raw sales rows (CSV or XLSX) and
 produces a polished, multi-sheet management report with KPIs, **native Excel charts**, **conditional
 formatting** against targets and live `SUM` formulas.
